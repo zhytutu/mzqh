@@ -17,3 +17,11 @@
 [Menu Item 2](item2.md)
 - - - -
 [Menu Item 3](item3.md)
+- - - -
+[About](about.md)
+- - - -
+[Links](links.md)
+- - - -
+[gimmick:themechooser](Theme)
+- - - - 
+[gimmick:theme](cosmo)
