@@ -1,20 +1,19 @@
 [Home](index.md)
 [About](about.md)
-# Bolg
-[Tourials]()
-  * # Linux
-  * [Post 1](post1.md)
-  * [Post 2](post2.md)
+# Blog
+
+[Menu Item 1]()
+
+  * # SubMenu Heading 1
+  * [SubMenu Item 1](subitem1.md)
+  * [SubMenu Item 2](subitem2.md)
   - - - -
-  * # Windows
-  * [Post 3](post3.md)
+  * # SubMenu Heading 2
+  * [SubMenu Item 3](subitem3.md)
   - - - -
-  * # Mac
-  * [Post 4](post4.md)
-[About](about.md)
+  * # SubMenu Heading 3
+  * [SubMenu Item 3](subitem3.md)
+
+[Menu Item 2](item2.md)
 - - - -
-[Links](links.md)
-- - - -
-[gimmick:themechooser](Theme)
-- - - - 
-[gimmick:theme](cosmo)
+[Menu Item 3](item3.md)
