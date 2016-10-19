@@ -7,7 +7,7 @@
   * [SubMenu Item 1](subitem1.md)
   * [SubMenu Item 2](subitem2.md)
   - - - -
-  * # 152cm制作的伪春菜人格
+  * # 伪春菜人格
   * [SubMenu Item 3](subitem3.md)
 
 [Menu Item 2](item2.md)
